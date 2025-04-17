@@ -1,4 +1,4 @@
 # apnacollege-demo
 this repo is for my practice
 <br>
-Author - Riki
+Author - Riki(Heritage)
